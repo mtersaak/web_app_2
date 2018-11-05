@@ -1,0 +1,17 @@
+h1,h2{
+	text-align: center;
+	font-family: "Abril Fatface", "sans-serif", Times New Roman;
+}
+h1{
+	color: #FF0000;
+}
+html{
+	background: purple;
+}
+html,head,body{
+	
+}
+video{
+	width: 100%;
+	height: 50%;
+}
